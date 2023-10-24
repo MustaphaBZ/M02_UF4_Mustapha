@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "652ea54beb471da51b272524"
+  },
+  "nom": "Synchronized Spellcraft",
+  "tipus": "Instant",
+  "color": "vermell",
+  "raresa": "comu",
+  "text": "L'encanteri sincronitzat fa 4 danys a la criatura objectiu i X danys al controlador d'aquesta criatura, on X és el nombre de criatures del teu grup. (El vostre grup consta de com a màxim un clergue, un canalla, un guerrer i un mag.)",
+  "mana": "4",
+  "expansio": "Zendikar Rising"
+},
+{
+  "_id": {
+    "$oid": "652ea6a8eb471da51b272525"
+  },
+  "nom": "Mizzix of the Izmagnus",
+  "tipus": "Criatura legendaria",
+  "color": "daurat",
+  "raresa": "mitic",
+  "text": "Sempre que feu un encanteri instantani o de bruixeria amb un valor de manà superior al nombre de comptadors d'experiència que teniu, obteniu un comptador d'experiència.",
+  "mana": "4",
+  "expansio": "Zendikar Rising"
+},
+{
+  "_id": {
+    "$oid": "652ea70ceb471da51b272526"
+  },
+  "nom": "Mizzix of the Izmagnus",
+  "tipus": "Criatura legendaria",
+  "color": "daurat",
+  "raresa": "mitic",
+  "text": "Sempre que feu un encanteri instantani o de bruixeria amb un valor de manà superior al nombre de comptadors d'experiència que teniu, obteniu un comptador d'experiència.Els encanteris instantanis i de bruixeria que feu costen 1 menys de llançar per cada comptador d'experiència que tingueu.",
+  "mana": "4",
+  "expansio": "commander"
+},
+{
+  "_id": {
+    "$oid": "652ea8aaeb471da51b272527"
+  },
+  "nom": "Chandra",
+  "tipus": "Legendaria",
+  "color": "daurat",
+  "raresa": "mitic",
+  "text": "+1: crea dues fitxes de criatura elemental 3/1 vermelles amb pressa. Exilieu-los al començament del següent pas final.",
+  "mana": "6"
+},
+{
+  "_id": {
+    "$oid": "652ea8d0eb471da51b272528"
+  },
+  "nom": "Chandra",
+  "tipus": "Legendaria",
+  "color": "daurat",
+  "raresa": "mitic",
+  "text": "+1: crea dues fitxes de criatura elemental 3/1 vermelles amb pressa. Exilieu-los al començament del següent pas final.",
+  "mana": "6"
+},
+{
+  "_id": {
+    "$oid": "6535269602028730514b5715"
+  },
+  "nom": "Spellskite",
+  "raresa": "especial",
+  "color": "negre",
+  "mana": "2"
+},
+{
+  "_id": {
+    "$oid": "6535287302028730514b5716"
+  },
+  "nom": "Godo",
+  "raresa": "especial",
+  "color": "vermell",
+  "mana": "6"
+},
+{
+  "_id": {
+    "$oid": "653529b202028730514b5717"
+  },
+  "nom": "Lathiel",
+  "raresa": "especial",
+  "color": "negre",
+  "mana": "4"
+},
+{
+  "_id": {
+    "$oid": "65352b6702028730514b5718"
+  },
+  "nom": "Seismic strike",
+  "raresa": "comu",
+  "color": "vermell",
+  "mana": "3"
+},
+{
+  "_id": {
+    "$oid": "65352f6202028730514b5719"
+  },
+  "nom": "Sun Zenith",
+  "raresa": "mitic",
+  "color": "blau",
+  "mana": "3"
+},
+{
+  "_id": {
+    "$oid": "65352fe002028730514b571a"
+  },
+  "nom": "Toxrill",
+  "raresa": "mitic",
+  "color": "blau",
+  "mana": "7"
+},
+{
+  "_id": {
+    "$oid": "653532ee02028730514b571b"
+  },
+  "nom": "The Locust God",
+  "raresa": "mitic",
+  "color": "vermell",
+  "mana": "6"
+},
+{
+  "_id": {
+    "$oid": "6535331f02028730514b571c"
+  },
+  "nom": "The Scarab God",
+  "raresa": "mitic",
+  "color": "blau",
+  "mana": "5"
+},
+{
+  "_id": {
+    "$oid": "653533e502028730514b571d"
+  },
+  "nom": "Tasigur",
+  "raresa": "bonus",
+  "color": "negre",
+  "mana": "6"
+},
+{
+  "_id": {
+    "$oid": "6535340c02028730514b571e"
+  },
+  "nom": "Akroma",
+  "raresa": "bonus",
+  "color": "blanc",
+  "mana": "8"
+},
+{
+  "_id": {
+    "$oid": "6535344002028730514b571f"
+  },
+  "nom": "Contaiment Priest",
+  "raresa": "bonus",
+  "color": "blanc",
+  "mana": "2"
+},
+{
+  "_id": {
+    "$oid": "653534b002028730514b5720"
+  },
+  "nom": "Faceless one",
+  "raresa": "especial",
+  "color": "negre",
+  "mana": "5"
+},
+{
+  "_id": {
+    "$oid": "6535351402028730514b5721"
+  },
+  "nom": "The Prismatic Piper",
+  "raresa": "especial",
+  "color": "negre",
+  "mana": "5"
+},
+{
+  "_id": {
+    "$oid": "653574ad624b2f440a17783d"
+  },
+  "nom": "Enduring Bondwarden",
+  "raresa": "comu",
+  "color": "blanc",
+  "mana": "1"
+},
+{
+  "_id": {
+    "$oid": "653574ff624b2f440a17783e"
+  },
+  "nom": "Arwen",
+  "raresa": "comu",
+  "color": "verd",
+  "mana": "3"
+}]
